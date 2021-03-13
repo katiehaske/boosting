@@ -2,7 +2,8 @@
 
 ## About the project 🪐
 
-This project uses the various classifiers -- random forest, SVM -- to predict fraudulent activity.
+With XGBoost, this project aims to classify space observations made by the Sloan Digital Sky Survey as stars, 
+galaxies, or quasars.
 
 
 ## Acknowledgments ✨
